@@ -1,0 +1,12 @@
+.DS_Store*
+*.swp
+__pycache__
+build
+exports
+doc
+.idea*
+CMakeLists.txt.user
+.vscode*
+*.bin
+./cholesky-*.txt
+launch/*
