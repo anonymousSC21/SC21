@@ -1,13 +1,13 @@
 ----------------------------------
 ***An anonymized submission containing the code to the submission titled: "On the Parallel I/O Optimality of Linear Algebra Kernels: Near-Optimal Matrix Factorizations".***
 ----------------------------------
-IT CONTAINS:
+THIS REPOSITORY CONTAINS:
 
--the code containing LU and Cholesky factorizations used in the paper, together with the launch scripts,
+- The code containing LU and Cholesky factorizations used in the paper, together with the launch scripts.
 
--authorsKit's script output (AuthorsKitOutput.txt),
+- AuthorsKit's script output (AuthorsKitOutput.txt)
 
--appendix containing proofs of Lemmas 2-7 included in the paper (proof_appendix.pdf).
+- The appendix containing proofs of Lemmas 2-7 included in the paper (proof_appendix.pdf).
 
 
 ## CODE 
