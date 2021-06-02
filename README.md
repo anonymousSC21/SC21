@@ -26,5 +26,7 @@ We ran the experiments on the CPU partition of Piz Daint supercomputer, which ho
 
 Note that in the paper, for each combination of N and P, we tested four libraries, four block sizes, and five runs for statistics.
 
+## BENCHMARKS USED IN THE PAPER
 
+We used randomly generated, real, double precision matrices of the sizes specified in the paper (ranging from N=4,096 to N=524,288 on P=2 up to P=512 compute nodes). For Cholesky factorization, the matrices are SPD (symmetric positive definite). For each combination of N and P, we conducted five runs and gathered wall-clock time for statistics conducted in the paper.
 
